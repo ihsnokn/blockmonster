@@ -37,3 +37,5 @@ ID of UpgradeCap:
 
 To initialize the contract, execute the `init` function, which will set up the necessary administrative capabilities.
 
+*Had no time to write tests...
+
