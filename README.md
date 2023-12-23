@@ -1,6 +1,6 @@
 # BlockMonster Game Smart Contract
 
-This is a smart contract for the BlockMonster game, implemented on the SUI blockchain platform.
+This is a smart contract for the BlockMonster game, implemented on the SUI blockchain platform. Made for Move on SUI hackaton...
 
 ## Overview
 
