@@ -27,6 +27,7 @@ ID of UpgradeCap:
 
 1-create_monster()
   parameters are --> (admincap, recipient address, name of the monster, rarity of the monster, attack power of the monster, defence of the monster, velocity of the monster) respectively.
+  
 2-create_armor()
   parameters are --? (bonus speed, bonus defence) respectively
   
