@@ -16,8 +16,10 @@ The BlockMonster game contract allows users to create, equip, and exchange game 
 
 There is a version in the devnet that I added, you can find it in this address:
 0xe9f52ecac9d9fd2ee40a711f090bc4510ac058460c26f71a345c2cab31f151a2
+
 ID of AdminCap:
 0xdfbec5d53d9947f55181745b58da8ccbbe0fc9ae41f523ee7c26d841ba55b5e0
+
 ID of UpgradeCap:
 0x9d48f2f6f0f164a6cc39cfe721f983eb6bdb80fcd0d1ea2688582dd89489274f
 
