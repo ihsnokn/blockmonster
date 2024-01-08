@@ -1,5 +1,5 @@
-// Copyright (c) Sui Foundation, Inc.
-// SPDX-License-Identifier: Apache-2.0
+
+
 #[test_only]
 module blockmonster::game_test {
     use blockmonster::game::{Self, AdminCap, Monster, Armor, WrappingMonster};
